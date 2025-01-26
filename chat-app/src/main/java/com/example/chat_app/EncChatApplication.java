@@ -14,5 +14,4 @@ public class EncChatApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EncChatApplication.class, args);
 	}
-
 }
